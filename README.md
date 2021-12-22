@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail: jaysonceojaytech@gmail.com 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I know nothing except for the fact of my ignorance
-
-![400px-Figma-logo svg](https://user-images.githubusercontent.com/54147129/147131824-2d668885-6ae2-4f71-b653-d0e2b593216c.png)
