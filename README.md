@@ -1,7 +1,6 @@
 ### Hello there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on multiple projects at a time
 - 🌱 I’m currently learning anything that makes me curious
