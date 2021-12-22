@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I know nothing except for the fact of my ignorance
 
+![169285003_3892774000829477_3457498210630833658_n](https://user-images.githubusercontent.com/54147129/147130616-60149b2c-023c-4b2f-b17b-d62d215cc051.jpg)
