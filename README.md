@@ -10,4 +10,7 @@
 - 📫 How to reach me: Gmail: jaysonceojaytech@gmail.com 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I know nothing except for the fact of my ignorance
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayson7)](https://github.com/anuraghazra/github-readme-stats)
