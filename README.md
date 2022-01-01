@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I know nothing except for the fact of my ignorance
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayson7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayson7&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
