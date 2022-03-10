@@ -11,6 +11,8 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I know nothing except for the fact of my ignorance
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayson7&show_icons=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
