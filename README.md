@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning anything that makes me curious
 - 👯 I’m looking to collaborate on anything within my knowledge that contributes to the world of tech
 - 🤔 I’m looking for help with anything interesting 
-- 💬 Ask me about Web development, AI, ML, Programming and Cyber Security
+- 💬 Ask me about Web, Mobile and Ai devlopment 
 - 📫 How to reach me: Gmail: jaysonceojaytech@gmail.com 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I know nothing except for the fact of my ignorance
