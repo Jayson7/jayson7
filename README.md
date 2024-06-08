@@ -13,8 +13,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?jayson7=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 [![jayson7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayson7)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/jayson7=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
