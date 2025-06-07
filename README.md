@@ -14,7 +14,7 @@
 I’m a **Full Stack Software Engineer** with **6+ years** experience building secure, scalable Web & Mobile applications.  
 Currently an **IT Specialist / System Engineer** at Ecobank Nigeria.  
 
-**Main skills:** Python, React, React Native, AWS, .NET MAUI, System Engineering, Security (ITIL 4 Certified), SQL, MongoDB.  
+**Main skills:** Python, JavaScript, Kotlin, Django, React, React Native, AWS, .NET MAUI, System Engineering, SQL, MongoDB.  
 
 **Projects:**  
 - 🏘️ Estate Management Software (500+ users)  
