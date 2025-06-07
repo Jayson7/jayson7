@@ -1,22 +1,40 @@
 ### Hello there 👋
 
+- 🔭 I’m currently working on multiple projects across Web, Mobile, and AI.
+- 🌱 I’m always learning — currently focused on advanced Cloud (AWS), Security (Security+), and Machine Learning.
+- 👯 I love collaborating on impactful tech projects and mentoring new developers (50+ mentored so far).
+- 💬 Ask me about: Full Stack Development (Python, React, AWS), Mobile Development (.NET MAUI, Kotlin), AI & Machine Learning.
+- 📫 How to reach me: jaysonceojaytech@gmail.com
+- ⚡ Fun fact: "I know nothing except for the fact of my ignorance." — Socrates
 
+---
 
-- 🔭 I’m currently working on multiple projects at a time
-- 🌱 I’m currently learning anything that makes me curious
-- 👯 I’m looking to collaborate on anything within my knowledge that contributes to the world of tech
-- 🤔 I’m looking for help with anything interesting 
-- 💬 Ask me about Web, Mobile and Ai development 
-- 📫 How to reach me: Gmail: jaysonceojaytech@gmail.com 
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I know nothing except for the fact of my ignorance
+### 👨‍💻 About Me
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+I’m a **Full Stack Software Engineer** with **6+ years** experience building secure, scalable Web & Mobile applications.  
+Currently an **IT Specialist / System Engineer** at Ecobank Nigeria.  
 
+**Main skills:** Python, React, React Native, AWS, .NET MAUI, System Engineering, Security (ITIL 4 Certified), SQL, MongoDB.  
+
+**Projects:**  
+- 🏘️ Estate Management Software (500+ users)  
+- 🤰 Pregnancy Disease App (10K+ users)  
+- 📊 MyFinPad! (SME Financial Platform)  
+- ⚖️ jddlawsolicitor.com (Legal services)  
+- 🚀 Many more → see pinned repos + Portfolio below.
+
+---
+
+### 🌍 Links
+
+- 🌐 [Portfolio](https://devjayson.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/abiodunadebayo8)
+- 🐱 [GitHub](https://github.com/jayson7)
+
+---
+
+![](https://komarev.com/ghpvc/?username=jayson7&color=green)
 
 [![jayson7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayson7)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jayson7&theme=darkhub)](https://github.com/jayson7/github-profile-trophy)
-
-
