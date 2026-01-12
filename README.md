@@ -25,6 +25,10 @@ Currently an **IT Specialist / System Engineer** at Ecobank Nigeria.
 
 ---
 
+
+https://github-readme-stats-three-hazel-78.vercel.app/
+[![Top Langs](https://github-readme-stats-three-hazel-78.vercel.app/api/top-langs/?username=jayson7)](https://github.com/jayson7/github-readme-stats)
+
 ### 🌍 Links
 
 - 🌐 [Portfolio](https://devjayson.vercel.app/)
