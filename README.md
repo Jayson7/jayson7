@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 I’m a **Full Stack Software Engineer** with **6+ years** experience building secure, scalable Web & Mobile applications.  
-Currently an **IT Specialist / System Engineer** at Ecobank Nigeria.  
+
 
 **Main skills:** Python, JavaScript, Kotlin.
 
