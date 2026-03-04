@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 I'm Jayson </h1>
+<h1 align="center">Hi 👋 I'm Jayson</h1>
 
 <p align="center">
-Full Stack Engineer • Cloud Builder • AI Explorer
+Full Stack Software Engineer • Backend Systems • Distributed Applications
 </p>
 
 <p align="center">
-Building scalable systems across Web, Mobile, and Cloud.
+I design and build scalable software systems used by thousands of users.
 </p>
 
 <p align="center">
@@ -16,13 +16,23 @@ Building scalable systems across Web, Mobile, and Cloud.
 
 ---
 
-# 🧠 Engineering Philosophy
+## 🧑‍💻 Software Engineering Focus
+
+• Backend system design  
+• API architecture and distributed services  
+• Scalable web platforms  
+• Mobile application integration  
+• Cloud-native deployment and infrastructure  
+
+---
+
+## 🧠 Engineering Philosophy
 
 > “I know nothing except for the fact of my ignorance.” — Socrates
 
 I build **real products used by real people**, not just demo applications.
 
-Over **6+ years**, I've engineered systems in:
+Over **6+ years**, I've engineered systems across:
 
 • Fintech  
 • Health Tech  
@@ -31,27 +41,27 @@ Over **6+ years**, I've engineered systems in:
 
 Serving **10,000+ users combined**.
 
-I focus on **scalable backend systems, reliable cloud infrastructure, and intuitive user experiences**.
+My focus is on **robust backend systems, scalable infrastructure, and reliable production software**.
 
 ---
 
 # 🚀 Products I've Built
 
-🏘 Estate Management Software  
+🏘 **Estate Management Software**  
 Property management platform serving **500+ residents**
 
-🤰 Pregnancy Disease Detection App  
-Healthcare support app used by **10K+ users**
+🤰 **Pregnancy Disease Detection App**  
+Healthcare support application used by **10K+ users**
 
-📊 MyFinPad  
+📊 **MyFinPad**  
 Financial management platform for SMEs
 
-⚖️ Legal Services Platform  
-Full digital system for legal service operations
+⚖️ **Legal Services Platform**  
+Full digital platform for legal consulting services
 
 ---
 
-# 🧰 Full Technology Stack
+# 🧰 Technology Stack
 
 ## 👨‍💻 Languages
 
@@ -120,7 +130,7 @@ Technologies:
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Infrastructure & DevOps
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
@@ -150,7 +160,7 @@ Technologies:
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 Machine Learning
 
 Tools:
 
@@ -162,7 +172,7 @@ Tools:
 
 ---
 
-# 📊 GitHub Intelligence
+# 📊 Engineering Activity
 
 <p align="center">
 
@@ -200,7 +210,7 @@ Tools:
 
 # 🧑‍🏫 Mentorship
 
-I've mentored **50+ developers** starting their careers in software engineering.
+I've mentored **50+ developers** beginning their careers in software engineering.
 
 Helping others grow is part of my engineering philosophy.
 
