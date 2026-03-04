@@ -1,56 +1,55 @@
-### Hello there 👋
-
-- 🔭 I’m currently working on multiple projects across Web, Mobile, and AI.
-- 🌱 I’m always learning — currently focused on advanced Cloud (AWS), Security (Security+), and Machine Learning.
-- 👯 I love collaborating on impactful tech projects and mentoring new developers (50+ mentored so far).
-- 💬 Ask me about: Full Stack Development (Python, React, AWS), Mobile Development (.NET MAUI, Kotlin), AI & Machine Learning.
-- 📫 How to reach me: jaysonceojaytech@gmail.com
-- ⚡ Fun fact: "I know nothing except for the fact of my ignorance." — Socrates
-
----
-
-### 👨‍💻 About Me
-
-I’m a **Full Stack Software Engineer** with **6+ years** experience building secure, scalable Web & Mobile applications.  
-
-
-**Main skills:** Python, JavaScript, Kotlin.
-
-**Projects:**  
-- 🏘️ Estate Management Software (500+ users)  
-- 🤰 Pregnancy Disease App (10K+ users)  
-- 📊 MyFinPad! (SME Financial Platform)  
-- ⚖️ jddlawsolicitor.com (Legal services)  
-- 🚀 Many more → see pinned repos + Portfolio below.
-
----
+<h1 align="center">Hey, I'm Jayson 👋</h1>
 <p align="center">
-  <a href="https://github.com/jayson7">
-    <img src="https://github-readme-stats-three-hazel-78.vercel.app/api?username=jayson7&show_icons=true" height="180" />
-  </a>
-  <a href="https://github.com/jayson7">
-    <img src="https://github-readme-stats-three-hazel-78.vercel.app/api/top-langs/?username=jayson7&layout=compact" height="180" />
-  </a>
+  Full Stack Engineer • Web / Mobile • Cloud & Security • Building products people actually use
 </p>
 
+<p align="center">
+  <a href="https://devjayson.vercel.app/"><b>Portfolio</b></a> •
+  <a href="https://linkedin.com/in/abiodunadebayo8"><b>LinkedIn</b></a> •
+  <a href="mailto:jaysonceojaytech@gmail.com"><b>Email</b></a>
+</p>
 
-### 🌍 Links
-
-- 🌐 [Portfolio](https://devjayson.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/abiodunadebayo8)
-- 🐱 [GitHub](https://github.com/jayson7)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayson7&style=flat&color=0e75b6" alt="profile views" />
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=jayson7&color=green)
+## 👨‍💻 About me
+- 6+ years building secure, scalable **Web & Mobile** applications  
+- Strong in **Python, JavaScript, PHP, TypeScript, Kotlin**  
+- Currently sharpening **AWS**, **Security+**, and **Machine Learning**  
+- I collaborate & mentor (50+ mentored)
 
-![GitHub Stats](https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true)
+> “I know nothing except the fact of my ignorance.” — Socrates
 
+---
 
+## 🧰 Tech stack
+**Backend:** Python, Django / DRF, FastAPI  
+**Frontend:** React, TypeScript, Next.js  
+**Mobile:** Kotlin, .NET MAUI, React Native  
+**Cloud/DevOps:** AWS, Docker, CI/CD  
+**DB:** SQL
 
-## 📊 Stats
+---
 
-![GitHub Stats](https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true)
+## 🚀 Featured projects
+- 🏘️ **Estate Management Software** — 500+ users  
+- 🤰 **Pregnancy Disease App** — 10K+ users  
+- 📊 **MyFinPad!** — SME financial platform  
+- ⚖️ **jddlawsolicitor.com** — legal services  
+- 🚀 More in pinned repos + portfolio
 
-![Top Langs](https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api/top-langs?username=jayson7&layout=compact)
+---
 
+## 📊 GitHub snapshots
+<p align="center">
+  <img src="https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" height="170" />
+  <img src="https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api/top-langs?username=jayson7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" height="170" />
+</p>
+
+---
+
+## 🏆 Highlights (optional)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jayson7&theme=tokyonight&no-frame=true&row=1&column=6)
