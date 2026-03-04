@@ -46,10 +46,12 @@ I’m a **Full Stack Software Engineer** with **6+ years** experience building s
 
 ![GitHub Stats](https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true&cache_seconds=1800&v=2)
 
-## Stats
-![GitHub Stats](https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true)
+
+<p align="center">
+  <img src="https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api?username=jayson7&show_icons=true" />
+  <img src="https://github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/api/top-langs?username=jayson7&layout=compact" />
+</p>
 
 
 
