@@ -44,6 +44,6 @@ I’m a **Full Stack Software Engineer** with **6+ years** experience building s
 
 ![](https://komarev.com/ghpvc/?username=jayson7&color=green)
 
-[![jayson7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayson7)](https://github.com/anuraghazra/github-readme-stats)
+[![jayson7's wakatime stats](github-readme-stats-gcq4039pe-jayson7s-projects.vercel.app/wakatime?username=jayson7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jayson7&theme=darkhub)](https://github.com/jayson7/github-profile-trophy)
