@@ -22,7 +22,7 @@ I design and build scalable software systems used by thousands of users.
 • API architecture and distributed services  
 • Scalable web platforms  
 • Mobile application integration  
-• Cloud-native deployment and infrastructure  
+• Cloud native deployment and infrastructure  
 
 ---
 
@@ -67,6 +67,7 @@ Full digital platform for legal consulting services
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
@@ -80,6 +81,7 @@ Full digital platform for legal consulting services
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
@@ -89,6 +91,8 @@ Technologies:
 
 • Django  
 • Django REST Framework  
+• Laravel  
+• PHP  
 • FastAPI  
 • Node.js  
 • Express  
@@ -117,6 +121,8 @@ Technologies:
 ## 📱 Mobile Development
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
@@ -124,6 +130,8 @@ Technologies:
 
 Technologies:
 
+• React Native  
+• Flutter  
 • Kotlin  
 • Android  
 • .NET MAUI  
@@ -146,6 +154,7 @@ Technologies:
 • Docker  
 • Kubernetes  
 • CI/CD  
+• Linux  
 • Linux Servers  
 
 ---
@@ -162,11 +171,16 @@ Technologies:
 
 ## 🤖 Machine Learning
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+</p>
+
 Tools:
 
-• TensorFlow  
 • PyTorch  
-• Scikit-learn  
+• TensorFlow  
+• Scikit learn  
 • Pandas  
 • NumPy  
 
