@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jayson</h1>
 
 <p align="center">
-Full Stack Software Engineer • Backend Systems • Distributed Applications
+A Polyglot Software Engineer 
 </p>
 
 <p align="center">
