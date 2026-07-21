@@ -24,7 +24,7 @@
 
 I build software that has to work — not once, but every day, under real load, with real users depending on it.
 
-As **Lead Software Engineer at Visiara Ltd**, I own architecture decisions, drive engineering standards, review the code that ships, and mentor the people writing it. My work spans the full lifecycle: backend systems, cloud infrastructure, mobile apps, DevOps pipelines, and increasingly, AI/ML integration into production products.
+As **Lead Software Engineer**, I own architecture decisions, drive engineering standards, review the code that ships, and mentor the people writing it. My work spans the full lifecycle: backend systems, cloud infrastructure, mobile apps, DevOps pipelines, and increasingly, AI/ML integration into production products.
 
 I've shipped across **fintech, healthtech, proptech, legal tech, education, and enterprise IT** — industries where "it works on my machine" isn't good enough, and downtime has a real cost.
 
