@@ -1,4 +1,4 @@
-<h1 align="center">Omobolaji Adebayo</h1>
+<h1 align="center">Omobolaji Abiodun</h1>
 <h3 align="center">Lead Software Engineer · Polyglot Engineer · Cloud & Infrastructure Specialist</h3>
 
 <p align="center">
