@@ -168,7 +168,7 @@ I care less about what's trendy and more about what holds up: systems that are r
 
 ## Mentorship
 
-I spend time outside my own projects helping other engineers get better — Python, backend fundamentals, project delivery, and how to actually operate in a production environment.
+I spend time outside my own projects helping other engineers get better, and how to actually operate in a production environment.
 
 > Strong engineering teams are built through knowledge sharing, honest feedback, and the discipline to keep learning after you already know enough to get by.
 
