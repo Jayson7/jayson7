@@ -2,7 +2,7 @@
 <h3 align="center">Lead Software Engineer · Polyglot Engineer · Cloud & Infrastructure Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Designing+systems+that+survive+contact+with+production;Backend+%7C+Cloud+%7C+DevOps+%7C+AI%2FML;6%2B+years+shipping+software+that+doesn't+break" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Designing+systems+that+survive+contact+with+production;Backend+%7C+Cloud+%7C+DevOps+%7C+AI%2FML;7%2B+years+shipping+software+that+doesn't+break" alt="Typing SVG" />
 </p>
 
 <p align="center">
